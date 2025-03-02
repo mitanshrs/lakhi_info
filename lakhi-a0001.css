@@ -1,0 +1,32 @@
+.main h2,h1{
+    line-height :10px;
+    
+}
+.main p{
+    letter-spacing:1px;
+    line-height:15px;
+    font-weight: bold;
+}
+.main a{
+    text-decoration: none;
+    color:rgb(86, 86, 86)
+
+}
+
+.main a:hover{
+    text-decoration: underline;
+    color:rgb(172, 172, 172)
+}
+.main div{
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    width: 750px;
+    height: auto;
+
+}
+body{
+    background-color: #f44336;
+}
